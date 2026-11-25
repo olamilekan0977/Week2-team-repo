@@ -96,3 +96,20 @@ The MVP will include the following features:
 
 When a student misplaces a valuable asset like student ID card, laptops, phones, ATM cards, Keys etc on campus, panic and desperation to find their items immediately sets in. Students often waste so many hours finding and retracing their steps across multiple buildings like the Lazz Otti Library, the university cafeteria or even in some lecture rooms like SAT, New horizon etc, most times their halls of residence, other times students rely on Whatsapp group chats to know if their lost items will be posted.
 So the Lost and Found Management system servers as a safe and easier place where students or university staffs or people who lost their valusble items get them back when its found by another person, without asking around from friends or course mates or going into every whatsapp groups to check if someone might post it there which is not even certain.
+
+
+
+ADEGBITE HAMEED OLAMILEKAN    25/0977
+
+BELLO ABDULGAFAR             25/0989
+
+OKONKWO CHIDERA              25/0398
+
+OLUTAYO AJIBOLA OLAMIDE      25/0935
+
+AMANZE JOSEPH                25/2363
+
+CHIMDINDU NANCY OFUONYE      25/0705
+
+OKOYE JOSEPH                  25/1067
+
