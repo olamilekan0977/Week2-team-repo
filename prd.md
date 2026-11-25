@@ -99,17 +99,5 @@ So the Lost and Found Management system servers as a safe and easier place where
 
 
 
-ADEGBITE HAMEED OLAMILEKAN    25/0977
 
-BELLO ABDULGAFAR             25/0989
-
-OKONKWO CHIDERA              25/0398
-
-OLUTAYO AJIBOLA OLAMIDE      25/0935
-
-AMANZE JOSEPH                25/2363
-
-CHIMDINDU NANCY OFUONYE      25/0705
-
-OKOYE JOSEPH                  25/1067
 
